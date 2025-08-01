@@ -1,6 +1,6 @@
 # Joomla Docker Deployment Toolkit
 
-A professional Docker-based toolkit for deploying, backing up, and restoring Joomla CMS sites with MySQL database.
+A Docker-based toolkit for deploying, backing up, and restoring Joomla CMS sites with MySQL database.
 
 ## Technologies Used
 
