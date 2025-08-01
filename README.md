@@ -25,9 +25,10 @@ The toolkit creates a containerized environment with:
 
 ### Prerequisites
 
+- An internet connection
 - Linux machine with Docker installed
 - sudo privileges for package installation
-- At least 2GB free disk space
+
 
 ### Step-by-Step Deployment
 
